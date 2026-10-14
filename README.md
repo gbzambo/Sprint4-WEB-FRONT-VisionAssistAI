@@ -117,8 +117,8 @@ Consulte o arquivo `INTEGRANTES.TXT` para os nomes completos e respectivos RMs d
 
 ## Repositório e demonstração
 
-* **Repositório:** inserir o link do repositório do projeto.
-* **Demonstração online:** inserir o link publicado, caso a atividade exija deploy.
+* **Repositório:** https://github.com/gbzambo/Sprint4-WEB-FRONT-VisionAssistAI
+* **Demonstração online: https://sprint4-web-front-vision-assist-ai.vercel.app/
 
 ## Observações
 
